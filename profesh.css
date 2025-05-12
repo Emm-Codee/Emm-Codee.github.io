@@ -6,6 +6,14 @@
     vertical-align: baseline;
     background: #E6EBE0;
 }
+@font-face {
+    font-family:RedHat;
+    src: url(RedHatText-Regular.ttf);
+}
+@font-face {
+    font-family:Rights;
+    src: url(Righteous-Regular.ttf);
+}
 /* colors #ED6A5A (red) #F4F1BB (pale yellow) #9BC1BC (grey blue) #5D576B (purple) #E6EBE0 (whhhhhite) */
 h1 {
   color:#5D576B;
