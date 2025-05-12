@@ -44,7 +44,7 @@ header {
 a:link{
     font-family:RedHat;
     color:#5D576B;
-    background-color:none;
+    background-color:transparent;
     text-decoration:underline; 
     text-decoration-color: transparent; 
     transition: .5s ease-in;
