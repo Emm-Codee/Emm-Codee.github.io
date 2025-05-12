@@ -18,18 +18,25 @@
 h1 {
   color:#5D576B;
     font-size: 60px;
+    font-family:Rights;
 }
 h2 {
   color:#5D576B;
     font-size: 45px;
+    font-family:Rights;
 }
 h3 {
   color:#5D576B;
     font-size: 30px;
+    font-family:Rights;
 }
 h4 {
   color:#5D576B;
     font-size: 15px;
+    font-family:Rights;
+}
+p{
+    font-family:RedHat;
 }
 header {
     background-image: linear-gradient(to right, #9BC1BC, #E6EBE0)
