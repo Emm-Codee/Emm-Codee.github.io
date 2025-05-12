@@ -4,36 +4,36 @@
     outline: 0;
     font-size: 100%;
     vertical-align: baseline;
-    background: #FCF6B1;
+    background: #E6EBE0;
 }
-/* colors #E3170A (red) #A9E5BB (light bluegreen) #FCF6B1 (whhhhite) #F7B32B (ormgnge) #2D1E2F (dark purple/black) */
+/* colors #ED6A5A (red) #F4F1BB (pale yellow) #9BC1BC (grey blue) #5D576B (purple) #E6EBE0 (whhhhhite) */
 h1 {
-  color:#2D1E2F;
+  color:#5D576B;
     font-size: 60px;
 }
 h2 {
-  color:#2D1E2F;
+  color:#5D576B;
     font-size: 45px;
 }
 h3 {
-  color:#2D1E2F;
+  color:#5D576B;
     font-size: 30px;
 }
 h4 {
-  color:#2D1E2F;
+  color:#5D576B;
     font-size: 15px;
 }
 header {
-    background-image: linear-gradient(to right, #A9E5BB, #FCF6B1)
+    background-image: linear-gradient(to right, #9BC1BC, #E6EBE0)
 }
 a:link{
-    color:#E3170A;
+    color:#5D576B;
     text-decoration:underline; 
     text-decoration-color: transparent; 
     transition: .5s ease-in;
 }
 a:hover{
-    text-decoration-color:#E3170A;
+    text-decoration-color:#ED6A5A;
 }
 a:visited{
     color:#E3170A;
