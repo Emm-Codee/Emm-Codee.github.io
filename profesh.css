@@ -8,24 +8,33 @@
 }
 /* colors #E3170A (red) #A9E5BB (light bluegreen) #FCF6B1 (whhhhite) #F7B32B (ormgnge) #2D1E2F (dark purple/black) */
 h1 {
-  color:2D1E2F;
+  color:#2D1E2F;
     font-size: 60px;
 }
 h2 {
-  color:2D1E2F;
+  color:#2D1E2F;
     font-size: 45px;
 }
 h3 {
-  color:2D1E2F;
+  color:#2D1E2F;
     font-size: 30px;
 }
 h4 {
-  color:2D1E2F;
+  color:#2D1E2F;
     font-size: 15px;
 }
 header {
     background-image: linear-gradient(to right, #A9E5BB, #FCF6B1)
 }
-header:a {
-    align:right; 
+a:link{
+    color:#E3170A;
+    text-decoration:underline; 
+    text-decoration-color: transparent; 
+    transition: .5s ease-in;
+}
+a:hover{
+    text-decoration-color:#E3170A;
+}
+a:visited{
+    color:#E3170A;
 }
