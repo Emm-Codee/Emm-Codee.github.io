@@ -50,10 +50,10 @@ a:link{
     transition: .5s ease-in;
 }
 a:hover{
-    text-decoration-color:#E6EBE0;
+    text-decoration-color:#5D576B;
 }
 a:visited{
-    color:#E3170A;
+    color:#5D576B;
 }
 .spacing
 {
