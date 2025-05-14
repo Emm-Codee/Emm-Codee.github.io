@@ -52,6 +52,9 @@ a:link{
 a:hover{
     text-decoration-color:#5D576B;
 }
+a h2:hover{
+    text-decoration-color: transparent;
+}
 a:visited{
     color:#5D576B;
 }
