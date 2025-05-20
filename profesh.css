@@ -38,9 +38,7 @@ h4 {
 p{
     font-family:RedHat;
 }
-header {
-    background-color: #ED6A5A;
-}
+
 a:link{
     font-family:RedHat;
     color:#5D576B;
@@ -64,5 +62,5 @@ a:visited{
     margin-right:50px;
 }
 .head {
-    background-color:#ED6A5A;
+    background-color:#9BC1BC ;
 }
